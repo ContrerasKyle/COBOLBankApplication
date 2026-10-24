@@ -1,0 +1,14 @@
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\obj\Debug\net9.0\Banking.Client.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\obj\Debug\net9.0\Banking.Client.AssemblyInfoInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\obj\Debug\net9.0\Banking.Client.AssemblyInfo.cs
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\obj\Debug\net9.0\Banking.Client.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\bin\Debug\net9.0\Banking.Client.exe
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\bin\Debug\net9.0\Banking.Client.deps.json
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\bin\Debug\net9.0\Banking.Client.runtimeconfig.json
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\bin\Debug\net9.0\Banking.Client.dll
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\bin\Debug\net9.0\Banking.Client.pdb
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\obj\Debug\net9.0\Banking.Client.dll
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\obj\Debug\net9.0\refint\Banking.Client.dll
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\obj\Debug\net9.0\Banking.Client.pdb
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\obj\Debug\net9.0\Banking.Client.genruntimeconfig.cache
+C:\Users\Lenovo\OneDrive\Documents\COBOL\Banking.Client\obj\Debug\net9.0\ref\Banking.Client.dll
